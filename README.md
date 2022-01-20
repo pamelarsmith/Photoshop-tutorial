@@ -17,7 +17,6 @@ A carousel post on Instagram is a post with multiple slides. You can make these 
    > - ![dimensions](dimensions.jpg)
    > - Change "Inches" to "Pixels." 
    > - Set width to 10800 and height to 1350.
-   > (image
 - Press 'Create'
 - Create 10 'guides' on the file
   > - Click 'View'
