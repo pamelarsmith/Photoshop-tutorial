@@ -1,4 +1,4 @@
-# Photoshop-tutorial# How to create a carousel post for Instagram in Photoshop
+# How to create a carousel post for Instagram in Photoshop
 
 A carousel post on Instagram is a post with multiple slides. You can make these slides continuous in Photoshop. Posters create these posts because they make the viewer interact with the post for longer, which increases post engagement on Instagram.
 
